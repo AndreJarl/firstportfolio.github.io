@@ -45,6 +45,7 @@ function updateAge() {
   
 
 
+
 dark.addEventListener("click", () => {
 			nave.classList.toggle("active");
 	   andre.classList.toggle("active");
