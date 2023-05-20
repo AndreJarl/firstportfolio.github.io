@@ -1,6 +1,6 @@
 # PORTFOLIO
 My First Website Portfolio built using a simple html,css, and javascript integrated with non-storage dark-mode.
-You can visit the site using this link:                                                                                                                           https://andrejarl.github.io/portfolio.github.io/portfoliov2.html
+You can visit the site using this link:                                                                                                                           https://andrejarl.github.io/firstportfolio.github.io/portfoliov2.html
 
 # Page Preview:
 DESKTOP:
